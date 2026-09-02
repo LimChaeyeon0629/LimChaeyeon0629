@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+## 🐣 GitAnimals
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/LimChaeyeon0629"
+    width="600"
+  />
+</a>
+
+---
+
+## 🌱 Contribution Pet
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/LimChaeyeon0629"
+    width="1000"
+    height="120"
+  />
+</a>
+
 <!--
 **LimChaeyeon0629/LimChaeyeon0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
