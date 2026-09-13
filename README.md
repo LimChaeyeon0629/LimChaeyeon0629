@@ -138,9 +138,4 @@ https://moitreport.duckdns.org/
 * Python
 * AI / LLM API Integration
 
-<br>
-
-## 📊 Notion
-
-[https://app.notion.com/p/35e15d86bc4080a2ac11f5559de16330](https://app.notion.com/p/35e15d86bc4080a2ac11f5559de16330)
 
