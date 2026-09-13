@@ -129,14 +129,6 @@ https://moitreport.duckdns.org/
 
 <br>
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LimChaeyeon0629\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimChaeyeon0629\&layout=compact)
-
-<br>
-
 ## 🐾 Git Animals
 
 <a href="https://github.com/devxb/gitanimals">
