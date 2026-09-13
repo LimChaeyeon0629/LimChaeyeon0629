@@ -1,3 +1,14 @@
+## 🐾 Git Animals
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/LimChaeyeon0629"
+    width="600"
+  />
+</a>
+
+<br>
+
 # 👋 Hi, I'm Chaeyeon
 
 ### 사용자 화면부터 DB 저장까지, 전체 흐름을 연결하는 Full-Stack Developer
@@ -126,14 +137,3 @@ https://moitreport.duckdns.org/
 * AWS & Docker Deployment
 * Python
 * AI / LLM API Integration
-
-<br>
-
-## 🐾 Git Animals
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/LimChaeyeon0629"
-    width="600"
-  />
-</a>
