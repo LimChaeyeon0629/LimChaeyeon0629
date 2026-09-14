@@ -89,7 +89,7 @@
 
 #### 🙋 My Contribution
 
-제가 담당한 영역은 **사용자 신고 및 관리자 신고 처리 시스템**입니다.
+제가 담당한 파트는 **사용자 신고 및 관리자 신고 처리 시스템**입니다.
 
 * 사용자 신고 CRUD
 * 관리자 신고 검색 / 페이징 / 승인 / 반려
@@ -113,29 +113,6 @@ https://moitreport.duckdns.org/
 ## 🔍 What I Care About
 
 ```text
-"왜 동작하지?"에서 멈추지 않고,
-"어디에서 데이터 흐름이 끊겼지?"를 찾는 개발자가 되고 싶습니다.
+기능을 동작하고 구현하는 것에서 멈추지 않고,
+실제 운영 상황에서 발생할 수 있는 문제를 고민하는 개발자를 지향합니다.
 ```
-
-화면에서 값이 다르게 보이는 문제가 발생하면 데이터 흐름을 추적하며 문제의 범위를 좁혀갑니다.
-
-또한 기능 구현 이후에도
-
-`중복 요청` · `동시 처리` · `권한 검증` · `데이터 정합성` · `외부 API 장애`
-
-와 같은 실제 운영 상황에서 발생할 수 있는 문제를 고민합니다.
-
-<br>
-
-## 📚 Currently Learning
-
-* Java & Spring Boot Architecture
-* REST API Design
-* Database / SQL Optimization
-* Authentication & Authorization
-* Concurrency Control
-* AWS & Docker Deployment
-* Python
-* AI / LLM API Integration
-
-
