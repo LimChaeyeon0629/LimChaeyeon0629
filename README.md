@@ -100,7 +100,10 @@
 * OpenAI API 기반 신고 내용 작성 및 관리자 판단 보조
 * AWS EC2 / Nginx / Docker / PM2 기반 서비스 배포
 
-🔗 **Repository**
+🔗 **Team Repository**
+https://github.com/look-93/2026-tjoeun-projects
+
+🔗 **My Repository**
 https://github.com/LimChaeyeon0629/moitreport
 
 🌐 **Deployment**
