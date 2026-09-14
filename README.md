@@ -11,6 +11,11 @@
 
 # 👋 Hi, I'm Chaeyeon
 
+```text
+기능을 동작하고 구현하는 것에서 그치지 않고,
+실제 운영 상황에서 발생할 수 있는 문제를 고민하는 개발자를 지향합니다.
+```
+
 ### 사용자 화면부터 DB 저장까지, 전체 흐름을 연결하는 Full-Stack Developer
 
 기능을 단순히 **“동작하게 만드는 것”**에서 끝내기보다,
@@ -107,12 +112,3 @@ https://github.com/LimChaeyeon0629/moitreport
 
 🌐 **Deployment**
 https://moitreport.duckdns.org/
-
-<br>
-
-## 🔍 What I Care About
-
-```text
-기능을 동작하고 구현하는 것에서 멈추지 않고,
-실제 운영 상황에서 발생할 수 있는 문제를 고민하는 개발자를 지향합니다.
-```
