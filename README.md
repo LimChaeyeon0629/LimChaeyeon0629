@@ -1,20 +1,10 @@
-## 🐾 Git Animals
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/LimChaeyeon0629"
-    width="600"
-  />
-</a>
-
-<br>
 
 # 👋 Hi, I'm Chaeyeon
 
 ### 사용자 화면부터 DB 저장까지, 전체 흐름을 연결하는 Full-Stack Developer
 
 ```text
-기능을 단순히 동작하고 구현하는 것에서 그치지 않고,
+기능을 단순히 구현하는 데 그치지 않고,
 실제 운영 상황에서 발생할 수 있는 문제를 고민하는 개발자를 지향합니다.
 ```
 
@@ -22,15 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-* Java / Spring Boot 기반의 **Backend 개발**
-* React / Next.js 기반의 **Frontend 개발**
-* REST API 설계 및 Frontend ↔ Backend 연동
-* Oracle / MySQL 기반 데이터 모델링 및 SQL
-* JWT / Spring Security 기반 인증·인가
-* Redis를 활용한 동시성 제어
-* AWS EC2 / Nginx / Docker 기반 서비스 배포
-* OpenAI API를 활용한 AI 기능 구현 경험
-* Git / GitHub 기반 팀 프로젝트 협업 경험
+* **Main:** Java · Spring Boot 기반 웹 개발
+* **Experience:** React · Next.js 연동 및 AWS 서비스 배포
+* **Interest:** 데이터 정합성 · 동시성 제어 · 인증 및 인가
 
 <br>
 
@@ -87,24 +71,36 @@
 
 #### 🙋 My Contribution
 
-제가 담당한 파트는 **사용자 신고 및 관리자 신고 처리 시스템**입니다.
+MOIT에서 **사용자 신고부터 관리자 처리, 회원 제재와 결과 알림까지 이어지는 신고 시스템**을 담당했습니다.
 
-* 사용자 신고 CRUD
-* 관리자 신고 검색 / 페이징 / 승인 / 반려
-* Spring Security + JWT 기반 사용자 / 관리자 권한 분리
+* 사용자 신고 등록·조회·수정·삭제
+* 관리자 신고 검색·페이징·상세 조회·승인·반려
+* Spring Security와 JWT 기반 사용자·관리자 권한 분리
 * SecurityContext 기반 인증 사용자 식별 및 IDOR 방지
-* Redis Lock 기반 중복 처리 방지
-* 신고 승인 시 회원 신뢰도 점수 연동
+* Redis Lock과 DB 상태 재확인을 통한 중복 처리 방지
+* 신고 승인 결과에 따른 회원 신뢰도 점수 반영
 * 관리자 처리 이력 Audit Log 저장
-* `@TransactionalEventListener(AFTER_COMMIT)` + `@Async` 기반 이메일 발송
-* OpenAI API 기반 신고 내용 작성 및 관리자 판단 보조
-* AWS EC2 / Nginx / Docker / PM2 기반 서비스 배포
+* `AFTER_COMMIT`과 `@Async` 기반 비동기 이메일 발송
+* OpenAI API 기반 신고 작성 및 관리자 판단 보조
+* AWS EC2·Nginx·Docker·PM2 기반 서비스 배포
 
-🔗 **Team Repository**
+🔗 **Team Project Repository**  
 https://github.com/look-93/2026-tjoeun-projects
 
-🔗 **My Repository**
+🔗 **Report Feature Portfolio & Deployment Repository**  
 https://github.com/LimChaeyeon0629/moitreport
 
-🌐 **Deployment**
+🌐 **Deployed Service**  
 https://moitreport.duckdns.org/
+
+<br>
+
+## 🐾 Git Animals
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/LimChaeyeon0629"
+    width="600"
+  />
+</a>
+
