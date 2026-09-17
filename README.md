@@ -83,13 +83,13 @@ MOIT에서 **사용자 신고부터 관리자 처리, 회원 제재와 결과 �
 * OpenAI API 기반 신고 작성 및 관리자 판단 보조
 * AWS EC2·Nginx·Docker·PM2 기반 서비스 배포
 
-🔗 **Team Project Repository**  
+🔗 **MOIT 팀 프로젝트**  
 https://github.com/look-93/2026-tjoeun-projects
 
-🔗 **Report Feature Portfolio & Deployment Repository**  
+🔗 **신고 기능 중심 포트폴리오**  
 https://github.com/LimChaeyeon0629/moitreport
 
-🌐 **Deployed Service**  
+🌐 **MOIT AWS 배포**  
 https://moitreport.duckdns.org/
 
 <br>
