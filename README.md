@@ -77,7 +77,7 @@ MOIT에서 **사용자 신고부터 관리자 처리, 회원 제재와 결과 �
 * 신고 승인 결과에 따른 회원 신뢰도 점수 반영
 * 관리자 처리 이력 Audit Log 저장
 * `AFTER_COMMIT`과 `@Async` 기반 비동기 이메일 발송
-* OpenAI API 기반 신고 작성 및 관리자 판단 보조
+* OpenAI API 기반 신고 작성 및 LLM-RAG 관리자 판단 보조
 * AWS EC2·Nginx·Docker·PM2 기반 서비스 배포
 
 🔗 **2026-AI-FULLSTACK 부트캠프**  
